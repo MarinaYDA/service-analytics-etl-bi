@@ -1,0 +1,55 @@
+item_id,item_name,vehicle_model,unit_cost_usd,stock_qty,last_restock_date
+1,Cooling Fan,Model E,456,4,2023-07-12
+2,Cooling Fan,Model A,162,25,2023-07-03
+3,Inverter,Model A,191,10,2023-10-10
+4,Battery Pack,Model F,231,31,2023-06-04
+5,Relays,Model B,613,40,2023-01-24
+6,Inverter,Model D,778,34,2023-05-16
+7,Cooling Fan,Model C,510,28,2023-01-22
+8,Inverter,Model B,144,1,2023-08-26
+9,Relays,Model E,740,21,2024-02-26
+10,Module,Model C,751,20,2024-05-12
+11,Module,Model F,793,33,2024-07-15
+12,Cooling Fan,Model D,391,36,2023-05-16
+13,Relays,Model C,255,16,2023-08-21
+14,Cooling Fan,Model C,375,3,2023-06-01
+15,Inverter,Model C,546,10,2024-09-25
+16,ECU,Model F,628,18,2023-07-06
+17,ECU,Model F,789,9,2023-06-15
+18,ECU,Model A,122,20,2024-08-11
+19,ECU,Model D,346,23,2023-07-08
+20,ECU,Model E,804,2,2023-11-21
+21,Inverter,Model B,461,28,2024-07-06
+22,ECU,Model E,388,7,2023-01-26
+23,Cooling Fan,Model D,866,9,2024-04-14
+24,Inverter,Model B,84,34,2024-06-03
+25,Inverter,Model F,802,18,2024-04-30
+26,Inverter,Model E,762,9,2024-08-01
+27,Wiring Harness,Model D,426,7,2024-05-05
+28,Battery Pack,Model B,774,35,2023-04-30
+29,Inverter,Model A,491,39,2023-08-14
+30,Cooling Fan,Model C,174,20,2023-02-26
+31,Module,Model F,279,37,2024-06-23
+32,ECU,Model C,280,1,2023-03-27
+33,Module,Model D,773,5,2024-06-08
+34,Cooling Fan,Model B,582,20,2024-09-09
+35,Module,Model E,137,23,2024-02-12
+36,ECU,Model F,517,23,2024-01-31
+37,Inverter,Model A,371,22,2023-12-26
+38,Inverter,Model D,654,5,2023-08-09
+39,Wiring Harness,Model D,839,26,2024-03-29
+40,Inverter,Model B,825,27,2024-02-29
+41,ECU,Model E,692,5,2023-05-28
+42,ECU,Model C,566,33,2023-12-10
+43,Battery Pack,Model E,854,24,2023-04-01
+44,Battery Pack,Model D,734,17,2024-02-29
+45,ECU,Model E,553,36,2023-05-21
+46,ECU,Model B,470,18,2024-07-21
+47,Cooling Fan,Model A,389,37,2023-11-08
+48,Cooling Fan,Model E,837,29,2023-08-18
+49,Battery Pack,Model A,237,16,2023-11-04
+50,Wiring Harness,Model F,563,7,2023-10-22
+51,Cooling Fan,Model B,583,15,2023-01-30
+52,Battery Pack,Model C,584,4,2024-09-05
+53,Wiring Harness,Model C,675,30,2024-08-02
+54,Cooling Fan,Model C,723,30,2023-05-03
